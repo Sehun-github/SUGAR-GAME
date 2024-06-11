@@ -1,2 +1,1 @@
-# -
-TS_게임개발
+# Sugar GAME
