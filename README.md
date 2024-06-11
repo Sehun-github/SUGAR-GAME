@@ -1,1 +1,1 @@
-# Sugar GAME
+# SUGAR GAME 개발일지
